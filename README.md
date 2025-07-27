@@ -1,52 +1,55 @@
-# zhangxian_1928_portrait_discovery_storm_society_modern_art_pioneer
-> Multi-layered forensic and historical analysis of the rediscovered 1928 Zhang Xian portrait, connecting pigment science, AI brushstroke analysis, and Storm Society historical context.
-Zhang Xian (1928) Portrait Discovery: A Milestone in Modern Chinese Art
+# Zhang Xian 1928 Portrait – Rediscovered Masterpiece
 
-🖼️ Overview
+## 🖼️ Overview  
+This dataset presents the rediscovered portrait painting dated 1928, believed to be the only realistic human portrait created by **Zhang Xian (张弦)** — an early modern Chinese artist affiliated with the 1929 Chinese Art Association in France and the Storm Society.  
 
-This dataset presents the rediscovery of a lost portrait believed to be painted by Zhang Xian (张弦) in 1928 during his time in France. It includes high-resolution documentation, scientific pigment analysis, historical validation, and family provenance.
-
-The portrait is considered one of the most important human-figure oil paintings attributed to Zhang Xian and is potentially the only realistic portrait among his known works. It is stylistically consistent with the academic training Zhang received in France and is historically connected to the formative years of the Chinese Storm Society.
-
+The painting has been in the private collection of Haruthai Muangbunsri (Thailand) since 2015 and has undergone initial scientific examination.
 
 ---
 
-📁 Dataset Contents
+## 🔬 Scientific Examination
 
-zhangxian_portrait.jpg: The full scanned image of the 1928 oil portrait
+### 1. UV Fluorescence Analysis  
+Conducted at the **Thailand Institute of Nuclear Technology (TINT)**.  
+- **Method**: UV purple light (fluorescence)  
+- **Result**: No abnormal fluorescence detected.  
+- **Interpretation**: Indicates absence of modern pigments, varnishes, or restoration; supports the hypothesis of 19th–early 20th century origin.
 
-xrf_report.pdf: Pigment and material analysis
-
-prof_chen_letter.txt: Verification and interpretation by Prof. Chen Zhanbiao
-
-storm_society_summary.md: Research notes linking Zhang Xian to the Storm Society and early Chinese modernism
-
-zhangxian_portrait_metadata.json: Structured metadata including date, style, provenance, and supporting documents
-
-exposition_label_photo.jpg: Photograph of the original French exposition label attached to the back of the canvas
-
-home_photo_2016.jpg: Archival photo of the portrait hung in a private residence, alongside the "Tree Oil Painting"
-
-
+### 2. Elemental Pigment Analysis  
+Conducted at the **Department of Nuclear Engineering, Faculty of Engineering, Chulalongkorn University** (Bangkok).  
+- **Result**: High levels of **arsenic (As)** detected in the green pigments.  
+- **Implication**: Consistent with historical use of arsenic-based pigments such as **Emerald Green**, which were phased out in the mid-20th century due to toxicity.
 
 ---
 
-🔍 Significance
-
-This rediscovery not only contributes to Zhang Xian’s fragmented artistic legacy but also opens a new chapter in the understanding of Chinese modernism's Paris-Shanghai trajectory. The work is supported by multi-layered verification including AI, XRF analysis, and scholarly interpretation. The accompanying Tree Oil Painting in the same collection has also been subject to decade-long forensic study.
-
-
----
-
-🔗 Access the Dataset
-
-The full dataset is available on Hugging Face:
-https://huggingface.co/datasets/HaruthaiAi/zhangxian_1928_portrait_discovery_storm_society_modern_art_pioneer
-
+## 📁 Files Included
+- `zhangxian_portrait_1928_full.jpg` – High-resolution image of the full painting  
+- `uv_fluorescence_photo.jpg` – UV examination photo  
+- `arsenic_pigment_report_chula.pdf` – Summary of pigment analysis  
+- `exposition_label_backside.jpg` – Exhibition label on painting’s back  
+- `home_context_2016.jpg` – Photograph of the painting on the owner’s wall in 2016  
+- `prof_chen_letter_translation.pdf` – Scholarly assessment (English & Chinese)
 
 ---
 
-📜 Attribution
+## 🖋️ Historical Significance  
+Zhang Xian was a key figure in early Chinese modernism, appearing in official records alongside **Pang Xunqin**, **Liu Haisu**, and **Fu Lei**. This portrait—signed and dated in the Gregorian calendar—was likely created during his time in France before the Storm Society was founded.
 
-All research, curation, and forensic documentation by Haruthai Mongbunsri, 2015–2025. This dataset is intended for historical and educational use under open research guidelines.
+This may be the **only confirmed realistic portrait** from Zhang’s hand, differing from his later Fauvist landscapes found in Shanghai collections.
 
+---
+
+## 📜 Licensing  
+Creative Commons Zero (CC0 1.0) – Public Domain Dedication  
+Attribution suggested: **Haruthai Muangbunsri**, Thailand
+
+---
+
+## 🔗 Citation  
+**Muangbunsri, H. (2025).**  
+*Zhang Xian 1928 Portrait Discovery Dataset*  
+Hugging Face: [https://huggingface.co/datasets/HaruthaiAi/zhangxian_1928_portrait_discovery_storm_society_modern_art_pioneer](https://huggingface.co/datasets/HaruthaiAi/zhangxian_1928_portrait_discovery_storm_society_modern_art_pioneer)
+
+---
+
+*“Let this painting speak where history was once silent.”*
