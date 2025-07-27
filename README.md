@@ -22,15 +22,6 @@ Conducted at the **Department of Nuclear Engineering, Faculty of Engineering, Ch
 
 ---
 
-## 📁 Files Included
-- `zhangxian_portrait_1928_full.jpg` – High-resolution image of the full painting  
-- `uv_fluorescence_photo.jpg` – UV examination photo  
-- `arsenic_pigment_report_chula.pdf` – Summary of pigment analysis  
-- `exposition_label_backside.jpg` – Exhibition label on painting’s back  
-- `home_context_2016.jpg` – Photograph of the painting on the owner’s wall in 2016  
-- `prof_chen_letter_translation.pdf` – Scholarly assessment (English & Chinese)
-
----
 
 ## 🖋️ Historical Significance  
 Zhang Xian was a key figure in early Chinese modernism, appearing in official records alongside **Pang Xunqin**, **Liu Haisu**, and **Fu Lei**. This portrait—signed and dated in the Gregorian calendar—was likely created during his time in France before the Storm Society was founded.
